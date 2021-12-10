@@ -1,0 +1,16 @@
+img {
+    height: 40px;
+    width: 60px;
+}
+#bjpCount {
+   cursor: pointer;
+}
+#congressCount{
+    cursor: pointer;
+}
+#mnsCount{
+    cursor: pointer;
+}
+#Res{
+    cursor: pointer;
+}
